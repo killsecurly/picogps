@@ -18,5 +18,5 @@
 ## .GPB Specifications
 Struct binary file (iifffff)
 
-Int  | Int  | Float | Float | Float    | Float | Float
+Int  | Int  | Float | Float | Float    | Float | Float</br>
 Date | Time | Lat   | Long  | Altitude | HDOP  | VDOP
