@@ -12,6 +12,8 @@
   - Any generic one will work if its holes are breadboard sized
 5. 30 AWG Prototyping Wire (https://www.adafruit.com/product/1446)
   - Any decent generic 24AWG-30AWG will work, but smaller is better for overall finish
+6. Access to a 3D Printer (used a Bambu Lab P1S / AMS)
+7. PETG / ASA / ABS Filament
 
 ## .GPB Specifications
 Struct binary file (iifffff)
